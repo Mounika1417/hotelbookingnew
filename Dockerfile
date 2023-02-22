@@ -5,7 +5,7 @@ FROM adoptopenjdk:16-jre
 
 
 
-COPY  target/customermsrestdatajpa-*.jar /app.jar
+COPY  customermsrestdatajpa-*.jar /app.jar
 
 
 
